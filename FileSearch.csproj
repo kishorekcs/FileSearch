@@ -43,25 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AbstractRootFinder.cs" />
-    <Compile Include="ActiveRootFinder.cs" />
-    <Compile Include="FileSearcher.cs" />
-    <Compile Include="InvalidRootDescriptionException.cs" />
-    <Compile Include="IRootFinder.cs" />
-    <Compile Include="RootFinderFactory.cs" />
-    <Compile Include="Roots.cs" />
-    <Compile Include="SearchControl.cs" />
-    <Compile Include="SearchHistoryMgr.cs" />
-    <Compile Include="SearchInputForm.cs" />
-    <Compile Include="SearchMgr.cs" />
-    <Compile Include="SearchReport.cs" />
-    <Compile Include="SearchResult.cs" />
-    <Compile Include="SystemRootFinder.cs" />
     <Compile Include="TestMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibraryForTesting\FileSearch.Class.csproj">
+      <Project>{61acb3c9-99e7-4122-8f44-0602f78977d8}</Project>
+      <Name>FileSearch.Class</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
