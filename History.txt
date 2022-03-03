@@ -1,0 +1,44 @@
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$R59B13U\.vs\Eurofins2022\project-colors.json
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$R90DU7D\.vs\Eurofins\project-colors.json
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$RA3X1QA\Language Problem\.vs\Language Problem\project-colors.json
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$RDZE6SU\project-colors.json
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$RH12R08\ClassNObject\.vs\ClassNObject\project-colors.json
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$RPUJD7F\PLTLabs1\.vs\PLTLabs1\project-colors.json
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$RRRPNLW\.vs\NumberPuzzleApplication\project-colors.json
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$RWOZL5G\.vs\SimplePuzzleGame\project-colors.json
+C:\$Recycle.Bin\S-1-5-21-3197761689-2467521981-3255087139-1001\$RWVISAU\EurofinsJan2022Demos\LargeDataProcessingCaseStudy\.vs\LargeDataProcessingCaseStudy\project-colors.json
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\.vs\HackathonProjectkcskishore\project-colors.json
+C:\Users\Admin\source\repos\.vs\LocalProjectDuplicate\project-colors.json
+C:\Users\Admin\source\repos\BankAppTesting\.vs\BankAppTesting\project-colors.json
+C:\Users\Admin\source\repos\BankAppTesting\BankAppTesting.UnitTestProject\.vs\BankAppTesting.UnitTestProject\project-colors.json
+C:\Users\Admin\source\repos\DatabaseProgrammingWithADODemos\.vs\DatabaseProgrammingWithADODemos\project-colors.json
+C:\Users\Admin\source\repos\EFHandsOnLabs\.vs\EFHandsOnLabs\project-colors.json
+C:\Users\Admin\source\repos\Eurofins2022\.vs\Eurofins2022\project-colors.json
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\.vs\EurofinsJan2022Demos\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\.vs\EurofinsTraining2022kcs\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\AbstractAndArray\.vs\AbstractAndArray\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\anil assignments and classes\ClassNObject\.vs\ClassNObject\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\AssignmentByAnil\.vs\AssignmentByAnil\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\InterfaceDemo\.vs\InterfaceDemo\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\largedata processing case study\LargeDataProcessingCaseStudy\.vs\LargeDataProcessingCaseStudy\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\PLTLabs1\.vs\PLTLabs1\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\ProductApp1\.vs\ProductApp1\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\.vs\Labs\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\.vs\Trainee Version\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\venkat@pratian.com\PointOfSales Application Patterns\POSwithDesignPrinciples\.vs\POSwithDesignPrinciples\project-colors.json
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\venkat@pratian.com\PointOfSales Application Patterns\TrainingAndLabs\.vs\TrainingAndLabs\project-colors.json
+C:\Users\Admin\source\repos\FileSearch_Hackathon\FileSearch_Hackathon\.vs\FileSearch_Hackathon\project-colors.json
+C:\Users\Admin\source\repos\githubeurofins\.vs\githubeurofins\project-colors.json
+C:\Users\Admin\source\repos\githubeurofins\venketsir\LargeDataProcessingCaseStudy\.vs\LargeDataProcessingCaseStudy\project-colors.json
+C:\Users\Admin\source\repos\githubeurofins\venketsir\SPOwithDesignPatterns\.vs\SPOwithDesignPatterns\project-colors.json
+C:\Users\Admin\source\repos\githubeurofins\venketsir\test\.vs\test\project-colors.json
+C:\Users\Admin\source\repos\LanguageEnhancementsHandsOnLab\NewLanguageFeatures\.vs\NewLanguageFeatures\project-colors.json
+C:\Users\Admin\source\repos\LocalProject\.vs\LocalProject\project-colors.json
+C:\Users\Admin\source\repos\LocalProject\.vs\LocalProject2022Demos\project-colors.json
+C:\Users\Admin\source\repos\MovieApp_V1\.vs\MovieApp_V1\project-colors.json
+C:\Users\Admin\source\repos\PersonalKCSProjects\.vs\PersonalKCSProjects\project-colors.json
+C:\Users\Admin\source\repos\shuham\SearchEngine\.vs\SearchEngine\project-colors.json
+C:\Users\Admin\source\repos\trashcode\Language Problem\.vs\Language Problem\project-colors.json
+C:\Users\Admin\source\repos\trashcode\OODesignExercise1_Venkat\.vs\OODesignExercise1_Venkat\project-colors.json
+C:\Users\Admin\source\repos\trashcode\SimpleCalculatorClassLibrary\.vs\SimpleCalculatorClassLibrary\project-colors.json
+C:\Users\Admin\Documents\eurofins files\docs new joinee help\ECIS-Induction.pdf
