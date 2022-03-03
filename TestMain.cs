@@ -56,3 +56,10 @@ namespace FileSearch
         }
     }
 }
+//file names sample
+/*
+ECIS-Induction.pdf
+ADO.NET Reference Manual.pdf
+FIT-NET-JAN-2022-20220219_170936-Meeting Recording.mp4
+project-colors.json
+ */
