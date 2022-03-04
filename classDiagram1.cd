@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileSearch.Class.SearchHistoryMgr" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQAAACAA=</HashCode>
+      <FileName>done\SearchHistoryMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileSearch.Class.SearchInputForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="historyManager" Type="FileSearch.Class.SearchHistoryMgr" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="1.625" />
+        <Point X="6.375" Y="1.625" />
+        <Point X="6.375" Y="2.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.118" Y="0.927" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="SearchManager" Type="FileSearch.Class.SearchMgr" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="1.5" />
+        <Point X="1.125" Y="1.5" />
+        <Point X="1.125" Y="2.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-2.34" Y="0.793" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="searchReport" Type="FileSearch.Class.SearchReport" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="2.312" />
+        <Point X="3.188" Y="2.312" />
+        <Point X="3.188" Y="3.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.307" Y="0.802" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QAAgEAAgAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAAgCAA=</HashCode>
+      <FileName>done\SearchInputForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="historyManager" />
+      <Field Name="SearchManager" />
+      <Field Name="searchReport" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FileSearch.Class.DriveFinderFactory" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <AssociationLine Name="Instance" Type="FileSearch.Class.DriveFinderFactory">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.115" Y="0.302" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="allDriveFinder" Type="FileSearch.Class.Drive.AllDriveFinder">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.032" Y="0.16" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="systemDriveFinder" Type="FileSearch.Class.Drive.SystemDriveFinder">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.348" Y="0.193" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAABAAAEAAQAAAAAAAAAA=</HashCode>
+      <FileName>Drive\DriveFinderFactory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="allDriveFinder" />
+      <Field Name="systemDriveFinder" />
+      <Property Name="Instance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FileSearch.Class.FileNotFoundException" Collapsed="true">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>exceptionsss\FileNotFoundException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileSearch.Class.InvalidFinderChoiceException" Collapsed="true">
+    <Position X="4.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>exceptionsss\InvalidFinderChoiceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileSearch.Class.InvalidRootDescriptionException" Collapsed="true">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>exceptionsss\InvalidRootDescriptionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileSearch.Class.FileSearcher">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>FileSearcher.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_SearchResult" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FileSearch.Class.SearchMgr">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <AssociationLine Name="fileSearcher" Type="FileSearch.Class.FileSearcher">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.165" Y="1.002" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>SearchMgr.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="fileSearcher" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FileSearch.Class.SearchReport">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <AssociationLine Name="Result" Type="FileSearch.Class.SearchResult">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.568" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchReport.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Result" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FileSearch.Class.SearchResult">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <AssociationLine Name="Instance" Type="FileSearch.Class.SearchResult">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.082" Y="0.268" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAABAAAAAAAQABAAAAAAAA=</HashCode>
+      <FileName>SearchResult.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Instance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FileSearch.Class.Drive.AllDriveFinder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Drive\AllDriveFinder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="FileSearch.Class.Drive.SystemDriveFinder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Drive\SystemDriveFinder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.083" Collapsed="true" />
+  </Class>
+  <Interface Name="FileSearch.Class.IDriveFinder" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Drive\IDriveFinder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

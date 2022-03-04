@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{47C989B6-1E0B-4EF3-8AF5-8E493D043559}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>FileSearch</RootNamespace>
-    <AssemblyName>FileSearch</AssemblyName>
+    <ProjectGuid>{61ACB3C9-99E7-4122-8F44-0602F78977D8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClassLibraryForTesting</RootNamespace>
+    <AssemblyName>ClassLibraryForTesting</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -34,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -43,21 +42,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TestMain.cs" />
+    <Compile Include="Drive\AllDriveFinder.cs" />
+    <Compile Include="Drive\DriveFinderFactory.cs" />
+    <Compile Include="Drive\IDriveFinder.cs" />
+    <Compile Include="Drive\SystemDriveFinder.cs" />
+    <Compile Include="exceptionsss\FileNotFoundException.cs" />
+    <Compile Include="exceptionsss\InvalidFinderChoiceException.cs" />
+    <Compile Include="exceptionsss\InvalidRootDescriptionException.cs" />
+    <Compile Include="FileSearcher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchHistoryMgr.cs" />
+    <Compile Include="SearchInputForm.cs" />
+    <Compile Include="SearchMgr.cs" />
+    <Compile Include="SearchReport.cs" />
+    <Compile Include="SearchResult.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="FileSearch.Class.UnitTesting\FileSearch.Class.UnitTesting.csproj">
-      <Project>{c97fa452-48e8-4d99-9bf1-54fe293a130c}</Project>
-      <Name>FileSearch.Class.UnitTesting</Name>
-    </ProjectReference>
-    <ProjectReference Include="FileSearch.Class\FileSearch.Class.csproj">
-      <Project>{61acb3c9-99e7-4122-8f44-0602f78977d8}</Project>
-      <Name>FileSearch.Class</Name>
-    </ProjectReference>
+    <None Include="classDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
