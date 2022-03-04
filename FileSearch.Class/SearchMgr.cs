@@ -45,7 +45,6 @@ namespace FileSearch.Class
                     //Console.Error.WriteLine();
                     Console.WriteLine("\n\n\t\t\tDrive : "+drive+ " unplugged or broken. CHECK CONNECTION AND TRY LATER\n\n");
                 }
-                
             });
         }
 

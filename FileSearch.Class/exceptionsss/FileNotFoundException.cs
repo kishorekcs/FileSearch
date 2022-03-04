@@ -10,16 +10,16 @@ namespace FileSearch.Class
         {
         }
 
-        public FileNotFoundException(string message) : base(message)
-        {
-        }
+        //public FileNotFoundException(string message) : base(message)
+        //{
+        //}
 
-        public FileNotFoundException(string message, Exception innerException) : base(message, innerException)
-        {
-        }
+        //public FileNotFoundException(string message, Exception innerException) : base(message, innerException)
+        //{
+        //}
 
-        protected FileNotFoundException(SerializationInfo info, StreamingContext context) : base(info, context)
-        {
-        }
+        //protected FileNotFoundException(SerializationInfo info, StreamingContext context) : base(info, context)
+        //{
+        //}
     }
 }

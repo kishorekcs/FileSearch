@@ -20,7 +20,7 @@ namespace FileSearch.Class
         /// <param name="ResultPath"></param>
         internal void StoreSearchResults(List<string> ResultPath)
         {
-            ResultPath.Select(x => x.Trim('\n')).Distinct().ToList().ForEach(z => File.AppendAllText(History,z+'\n'));
+            ResultPath.Select(x => x.Trim('\n')).ToList().ForEach(z => File.AppendAllText(History,z+'\n'));
         }
         
         /// <summary>
@@ -30,6 +30,7 @@ namespace FileSearch.Class
         internal List<string> GetSearchResults(string fileName)
         {
             return File.ReadAllText(History).Split('\n').Where(x=>x.Contains(fileName)).ToList();
+            
         }
     }
 }

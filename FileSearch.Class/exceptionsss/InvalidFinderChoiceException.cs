@@ -10,16 +10,16 @@ namespace FileSearch.Class
         {
         }
 
-        public InvalidFinderChoiceException(string message) : base(message)
-        {
-        }
+        //public InvalidFinderChoiceException(string message) : base(message)
+        //{
+        //}
 
-        public InvalidFinderChoiceException(string message, Exception innerException) : base(message, innerException)
-        {
-        }
+        //public InvalidFinderChoiceException(string message, Exception innerException) : base(message, innerException)
+        //{
+        //}
 
-        protected InvalidFinderChoiceException(SerializationInfo info, StreamingContext context) : base(info, context)
-        {
-        }
+        //protected InvalidFinderChoiceException(SerializationInfo info, StreamingContext context) : base(info, context)
+        //{
+        //}
     }
 }

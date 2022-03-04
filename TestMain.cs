@@ -51,8 +51,8 @@ namespace FileSearch
             #endregion
 
             var searchForm = new SearchInputForm();
-
-            searchForm.Search();
+            Console.WriteLine("Enter File Name: ");
+            searchForm.Search(Console.ReadLine());
         }
     }
 }

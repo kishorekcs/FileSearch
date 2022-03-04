@@ -1,0 +1,32 @@
+C:\ProgramData\Microsoft\VisualStudio\ChromeAdapter\c266e36f\msbuild\ChromeDebugAdapter.sln
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\HackathonProjectkcskishore.sln
+C:\Users\Admin\source\repos\BankAppTesting\BankAppTesting.sln
+C:\Users\Admin\source\repos\BankAppTesting\BankAppTesting.UnitTestProject\BankAppTesting.UnitTestProject.sln
+C:\Users\Admin\source\repos\DatabaseProgrammingWithADODemos\DatabaseProgrammingWithADODemos.sln
+C:\Users\Admin\source\repos\EFHandsOnLabs\EFHandsOnLabs.sln
+C:\Users\Admin\source\repos\Eurofins2022\Eurofins2022.sln
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\EurofinsJan2022Demos.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\AbstractAndArray\AbstractAndArray.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\AssignmentByAnil\AssignmentByAnil.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\ClassNObject\ClassNObject.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\InheritanceDemo\InheritanceDemo.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\InterfaceDemo\InterfaceDemo.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\largedata processing case study\LargeDataProcessingCaseStudy\LargeDataProcessingCaseStudy.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\PLTLabs1\PLTLabs1.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\ProductApp1\ProductApp1.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Labs.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\venkat@pratian.com\PointOfSales Application Patterns\POSwithDesignPrinciples\POSwithDesignPrinciples.sln
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\venkat@pratian.com\PointOfSales Application Patterns\TrainingAndLabs\TrainingAndLabs.sln
+C:\Users\Admin\source\repos\FileSearch\FileSearch.sln
+C:\Users\Admin\source\repos\FileSearch_Hackathon\FileSearch_Hackathon\FileSearch_Hackathon.sln
+C:\Users\Admin\source\repos\githubeurofins\venketsir\LargeDataProcessingCaseStudy\LargeDataProcessingCaseStudy.sln
+C:\Users\Admin\source\repos\githubeurofins\venketsir\SPOwithDesignPatterns\SPOwithDesignPatterns.sln
+C:\Users\Admin\source\repos\githubeurofins\venketsir\test\test.sln
+C:\Users\Admin\source\repos\LanguageEnhancementsHandsOnLab\NewLanguageFeatures\NewLanguageFeatures.sln
+C:\Users\Admin\source\repos\LocalProject\LocalProject2022Demos.sln
+C:\Users\Admin\source\repos\MovieApp_V1\MovieApp_V1.sln
+C:\Users\Admin\source\repos\PersonalKCSProjects\PersonalKCSProjects.sln
+C:\Users\Admin\source\repos\trashcode\Language Problem\Language Problem.sln
+C:\Users\Admin\source\repos\trashcode\OODesignExercise1_Venkat\OODesignExercise1_Venkat.sln
+C:\Users\Admin\source\repos\trashcode\SimpleCalculatorClassLibrary\SimpleCalculatorClassLibrary.sln
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\msbuild\ChromeDebugAdapter.sln

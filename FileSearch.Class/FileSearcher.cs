@@ -27,7 +27,7 @@ namespace FileSearch.Class
             try
             {
                 _SearchResult.FilePaths.AddRange(Directory.GetFiles(TargetPath, $"*{targetFile}").ToList());
-
+                //_SearchResult.FilePaths.AddRange(Directory.GetFiles(TargetPath, "*").ToList());//all files
                 #region ignore
                 ///check for targetfile in current folder
                 //foreach (var filePath in loc)
