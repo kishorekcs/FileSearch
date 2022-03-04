@@ -56,7 +56,7 @@ namespace FileSearch.Class
                     else
                     {
                         Console.WriteLine("FILE NOT FOUND");
-                        //throw new FileNotFoundException();
+                        throw new FileNotFoundException();
                     }
                 }
             }

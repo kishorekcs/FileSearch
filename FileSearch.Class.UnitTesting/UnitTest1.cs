@@ -1,6 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using FileSearch.Class;
+using FileSearcher.Class.UnitTesting;
+using FileSearch;
 
 namespace FileSearcher.Class.UnitTesting
 {
