@@ -1,32 +1,608 @@
-C:\ProgramData\Microsoft\VisualStudio\ChromeAdapter\c266e36f\msbuild\ChromeDebugAdapter.sln
-C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\HackathonProjectkcskishore.sln
-C:\Users\Admin\source\repos\BankAppTesting\BankAppTesting.sln
-C:\Users\Admin\source\repos\BankAppTesting\BankAppTesting.UnitTestProject\BankAppTesting.UnitTestProject.sln
-C:\Users\Admin\source\repos\DatabaseProgrammingWithADODemos\DatabaseProgrammingWithADODemos.sln
-C:\Users\Admin\source\repos\EFHandsOnLabs\EFHandsOnLabs.sln
-C:\Users\Admin\source\repos\Eurofins2022\Eurofins2022.sln
-C:\Users\Admin\source\repos\EurofinsJan2022Demos\EurofinsJan2022Demos.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\AbstractAndArray\AbstractAndArray.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\AssignmentByAnil\AssignmentByAnil.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\ClassNObject\ClassNObject.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\InheritanceDemo\InheritanceDemo.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\InterfaceDemo\InterfaceDemo.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\largedata processing case study\LargeDataProcessingCaseStudy\LargeDataProcessingCaseStudy.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\PLTLabs1\PLTLabs1.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\ProductApp1\ProductApp1.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Labs.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\venkat@pratian.com\PointOfSales Application Patterns\POSwithDesignPrinciples\POSwithDesignPrinciples.sln
-C:\Users\Admin\source\repos\EurofinsTraining2022kcs\venkat@pratian.com\PointOfSales Application Patterns\TrainingAndLabs\TrainingAndLabs.sln
-C:\Users\Admin\source\repos\FileSearch\FileSearch.sln
-C:\Users\Admin\source\repos\FileSearch_Hackathon\FileSearch_Hackathon\FileSearch_Hackathon.sln
-C:\Users\Admin\source\repos\githubeurofins\venketsir\LargeDataProcessingCaseStudy\LargeDataProcessingCaseStudy.sln
-C:\Users\Admin\source\repos\githubeurofins\venketsir\SPOwithDesignPatterns\SPOwithDesignPatterns.sln
-C:\Users\Admin\source\repos\githubeurofins\venketsir\test\test.sln
-C:\Users\Admin\source\repos\LanguageEnhancementsHandsOnLab\NewLanguageFeatures\NewLanguageFeatures.sln
-C:\Users\Admin\source\repos\LocalProject\LocalProject2022Demos.sln
-C:\Users\Admin\source\repos\MovieApp_V1\MovieApp_V1.sln
-C:\Users\Admin\source\repos\PersonalKCSProjects\PersonalKCSProjects.sln
-C:\Users\Admin\source\repos\trashcode\Language Problem\Language Problem.sln
-C:\Users\Admin\source\repos\trashcode\OODesignExercise1_Venkat\OODesignExercise1_Venkat.sln
-C:\Users\Admin\source\repos\trashcode\SimpleCalculatorClassLibrary\SimpleCalculatorClassLibrary.sln
-C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\msbuild\ChromeDebugAdapter.sln
+C:\Users\Admin\.nuget\packages\castle.core\4.4.0\ASL - Apache Software Foundation License.txt
+C:\Users\Admin\.nuget\packages\castle.core\4.4.0\readme.txt
+C:\Users\Admin\.nuget\packages\entityframework\6.4.4\tools\about_EntityFramework6.help.txt
+C:\Users\Admin\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\LICENSE.TXT
+C:\Users\Admin\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\THIRD-PARTY-NOTICES.TXT
+C:\Users\Admin\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\useSharedDesignerContext.txt
+C:\Users\Admin\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\version.txt
+C:\Users\Admin\.nuget\packages\system.runtime.numerics\4.3.0\dotnet_library_license.txt
+C:\Users\Admin\.nuget\packages\system.runtime.numerics\4.3.0\ThirdPartyNotices.txt
+C:\Users\Admin\.nuget\packages\system.threading.tasks.extensions\4.5.4\LICENSE.TXT
+C:\Users\Admin\.nuget\packages\system.threading.tasks.extensions\4.5.4\THIRD-PARTY-NOTICES.TXT
+C:\Users\Admin\.nuget\packages\system.threading.tasks.extensions\4.5.4\useSharedDesignerContext.txt
+C:\Users\Admin\.nuget\packages\system.threading.tasks.extensions\4.5.4\version.txt
+C:\Users\Admin\AppData\Local\FineCodeCoverage\msTestPlatform\16.9.1\LICENSE_VS.txt
+C:\Users\Admin\AppData\Local\FineCodeCoverage\msTestPlatform\16.9.1\ThirdPartyNotices.txt
+C:\Users\Admin\AppData\Local\FineCodeCoverage\msTestPlatform\16.9.1\tools\net451\Common7\IDE\Extensions\TestPlatform\ThirdPartyNotices.txt
+C:\Users\Admin\AppData\Local\FineCodeCoverage\openCover\4.7.922\readme_with_releasenotes.txt
+C:\Users\Admin\AppData\Local\FineCodeCoverage\openCover\4.7.922\docs\ReleaseNotes.txt
+C:\Users\Admin\AppData\Local\FineCodeCoverage\reportGenerator\4.7.1\.store\dotnet-reportgenerator-globaltool\4.7.1\dotnet-reportgenerator-globaltool\4.7.1\LICENSE.txt
+C:\Users\Admin\AppData\Local\FineCodeCoverage\reportGenerator\4.7.1\.store\dotnet-reportgenerator-globaltool\4.7.1\dotnet-reportgenerator-globaltool\4.7.1\Readme.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\chrome_shutdown_ms.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\index.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88\index.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\index.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\772be0c70dfb60b01f4ab0464ac0ade25de82e9f\index.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\99918aa40e838d84d18a9df27b592995545ccbba\index.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\Subresource Filter\Unindexed Rules\9.32.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\female_names.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\male_names.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\passwords.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\surnames.txt
+C:\Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\1\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-10.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-11.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-12.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-13.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-16.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-17.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-19.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-20.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-21.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-22.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-23.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-24.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-25.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-27.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-28.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-29.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-01-31.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-01.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-07.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-08.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-17.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-19.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-20.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-22.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-23.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-02-24.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_core_log_2022-03-04.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_error_20220217.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_error_20220219.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_error_20220220.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_error_20220222.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_error_20220223.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_error_20220224.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_error_20220304.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_information_20220217.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_information_20220219.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_information_20220220.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_information_20220222.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_information_20220223.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_information_20220224.txt
+C:\Users\Admin\AppData\Local\Intel\GCC\gcc_log_information_20220304.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\0cf9c2f4f535e0c09cab6f5f26b7a8618dd133bd\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\2c9c6cd78937521e098ef792e2b0815b960bd7a9\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\355690543901cc08c45dface808d8446dd9e58ee\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\382f4bf0f7246aa1192a9abaee3b2f233692e2ed\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\4fb0d2c66b84395852cceac05c59792751bead9c\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\571988c4897ef87c20ec4d6b13878cf6c36e1caf\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\74756bd57544fea73fb4757cea6f2951ea68014d\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\76ef9e5953a1ba4578548bb32235240a9f0e0ca2\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\989fbbc6cd933fc80e1939de3d7469a2c24cc0f7\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\9f04ad53e3edd3429daac14fecc8b394c9106b34\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\b231cda4396832e60a61c71e85764973eb718bde\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\c1eb0cde2406b6af565f825dcd492589d40ab644\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\c67a00d9d1fe43239f2bf49bebc287eb867542bc\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\eb6c00ff9eff399fe1fdde5f9d0e6f06b1982247\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\f051e79bd0d62105311811a47ad627fe59ab2469\index.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\Subresource Filter\Unindexed Rules\9.34.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Microsoft\Internet Explorer\brndlog.txt
+C:\Users\Admin\AppData\Local\Microsoft\OneDrive\22.033.0213.0002\ThirdPartyNotices.txt
+C:\Users\Admin\AppData\Local\Microsoft\OneDrive\logs\Business1\telemetry-dll-ramp-value.txt
+C:\Users\Admin\AppData\Local\Microsoft\OneDrive\logs\Common\telemetry-dll-ramp-value.txt
+C:\Users\Admin\AppData\Local\Microsoft\OneDrive\logs\ListSync\Business1\telemetry-dll-ramp-value.txt
+C:\Users\Admin\AppData\Local\Microsoft\OneDrive\logs\Personal\telemetry-dll-ramp-value.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\Admin\AppData\Local\Microsoft\TeamsMeetingAddin\meeting-addin-install-logs.txt
+C:\Users\Admin\AppData\Local\Microsoft\TeamsPresenceAddin\presence-addin-install-logs.txt
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\17.0_c266e36f\sdk.txt
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\17.0_c266e36f\IntelliCodeModels\all_line-completion2_ExtractedData\vocab.txt
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\17.0_c266e36f\PackageCache\Format1\_58__58_nuget_58__58_.txt
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\17.0_c266e36f\TranslatedSnippets\SnippetImportTranslationErrors.txt
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ThirdPartyNotices.txt
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ThirdPartyNotices.txt
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\SettingsLogs\header.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_error_20220228.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_error_20220301.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_error_20220302.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_error_20220303.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_error_20220304.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_error_20220305.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_error_20220306.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_information_20220228.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_information_20220301.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_information_20220302.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_information_20220303.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_information_20220304.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_information_20220305.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_information_20220306.txt
+C:\Users\Admin\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Promotions\IntelMarketingMaterialTimestamp.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\edge_shutdown_ms.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\index.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Default\Service Worker\CacheStorage\74756bd57544fea73fb4757cea6f2951ea68014d\index.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Subresource Filter\Unindexed Rules\9.34.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir\SkypeApp0.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_10[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_11[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_12[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_13[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_14[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_15[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_16[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_17[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_18[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_19[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_20[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_21[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_22[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_23[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_24[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_25[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_26[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_27[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_28[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_29[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_2[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_3[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_4[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_5[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_6[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_7[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_8[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\AppCache\0PODL6JD\57\C__Windows_SystemApps_Microsoft.Windows.Search_cw5n1h2txyewy_cache_Desktop_9[1].txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{4bdc987a-0408-4be8-8584-eb938312a711}\0.0.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{4bdc987a-0408-4be8-8584-eb938312a711}\0.1.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{4bdc987a-0408-4be8-8584-eb938312a711}\0.2.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{767e0c47-ce68-4150-bde5-acf34356dcaa}\0.0.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{767e0c47-ce68-4150-bde5-acf34356dcaa}\0.1.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{767e0c47-ce68-4150-bde5-acf34356dcaa}\0.2.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{c43338b8-dcf0-45b4-9bd5-c49531d83c42}\0.0.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{c43338b8-dcf0-45b4-9bd5-c49531d83c42}\0.1.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Apps_{c43338b8-dcf0-45b4-9bd5-c49531d83c42}\0.2.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{7a9fbc79-427d-488f-beec-059f19db7907}\appsconversions.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{7a9fbc79-427d-488f-beec-059f19db7907}\appsglobals.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{7a9fbc79-427d-488f-beec-059f19db7907}\appssynonyms.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{7a9fbc79-427d-488f-beec-059f19db7907}\settingsconversions.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{7a9fbc79-427d-488f-beec-059f19db7907}\settingsglobals.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{7a9fbc79-427d-488f-beec-059f19db7907}\settingssynonyms.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{071fbb6b-0e95-41f2-ab43-e63f8e6e475b}\0.0.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{071fbb6b-0e95-41f2-ab43-e63f8e6e475b}\0.1.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{071fbb6b-0e95-41f2-ab43-e63f8e6e475b}\0.2.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{a0d7eae6-8422-4644-827d-fdcccbcad51d}\0.0.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{a0d7eae6-8422-4644-827d-fdcccbcad51d}\0.1.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ConstraintIndex\Settings_{a0d7eae6-8422-4644-827d-fdcccbcad51d}\0.2.filtertrie.intermediate.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache\AppCache132908563927152564.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\DeviceSearchCache\SettingsCache.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\Flighting\FlightingLogging.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.XboxGameOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\LogFile_January_10_2022__7_43_48.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.XboxGameOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\LogFile_January_5_2022__5_26_0.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\profileDataSettings.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\XboxGamingOverlayTraces_FT_Server_20220219041056.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\XboxGamingOverlayTraces_FT_Server_20220225034706.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\XboxGamingOverlayTraces_FT_Server_20220302030930.txt
+C:\Users\Admin\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalState\DiagOutputDir\XboxGamingOverlayTraces_FT_Server_20220304033436.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\LICENSE.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\etc\libexec-moved.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\etc\package-versions.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\mingw64\doc\git-credential-manager\LICENSE.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\mingw64\share\doc\xz\faq.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\mingw64\share\doc\xz\history.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\mingw64\share\doc\xz\lzma-file-format.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\mingw64\share\doc\xz\xz-file-format.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\mingw64\share\doc\xz\examples\00_README.txt
+C:\Users\Admin\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\git\usr\share\licenses\ncurses\license.txt
+C:\Users\Admin\AppData\Local\Temp\9e6b15dc-488b-42e2-bb38-809f2a1006a1.1.txt
+C:\Users\Admin\AppData\Local\Temp\VSFaultInfo\220226_095805_6516460\ErrorInformation.txt
+C:\Users\Admin\AppData\Local\Temp\VSFaultInfo\220303_113436_1143241\ErrorInformation.txt
+C:\Users\Admin\AppData\Local\Temp\VSFaultInfo\220304_121953_3979350\ErrorInformation.txt
+C:\Users\Admin\AppData\Local\Temp\VSFaultInfo\220304_122023_0057582\ErrorInformation.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\0306990a-2495-40d0-9095-12e46b8ae32a\EBWebView\edge_shutdown_ms.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\0306990a-2495-40d0-9095-12e46b8ae32a\EBWebView\Subresource Filter\Unindexed Rules\9.33.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\0306990a-2495-40d0-9095-12e46b8ae32a\EBWebView\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\0306990a-2495-40d0-9095-12e46b8ae32a\EBWebView\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\0306990a-2495-40d0-9095-12e46b8ae32a\EBWebView\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\0306990a-2495-40d0-9095-12e46b8ae32a\EBWebView\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\0306990a-2495-40d0-9095-12e46b8ae32a\EBWebView\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\0306990a-2495-40d0-9095-12e46b8ae32a\EBWebView\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\09558d79-f511-498f-8fd8-cb515cf9216d\EBWebView\edge_shutdown_ms.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\09558d79-f511-498f-8fd8-cb515cf9216d\EBWebView\Subresource Filter\Unindexed Rules\9.34.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\09558d79-f511-498f-8fd8-cb515cf9216d\EBWebView\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\09558d79-f511-498f-8fd8-cb515cf9216d\EBWebView\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\09558d79-f511-498f-8fd8-cb515cf9216d\EBWebView\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\09558d79-f511-498f-8fd8-cb515cf9216d\EBWebView\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\09558d79-f511-498f-8fd8-cb515cf9216d\EBWebView\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\09558d79-f511-498f-8fd8-cb515cf9216d\EBWebView\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\178596e4-f7eb-4661-aaf6-c4fc576f7197\EBWebView\edge_shutdown_ms.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\178596e4-f7eb-4661-aaf6-c4fc576f7197\EBWebView\Subresource Filter\Unindexed Rules\9.33.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\178596e4-f7eb-4661-aaf6-c4fc576f7197\EBWebView\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\178596e4-f7eb-4661-aaf6-c4fc576f7197\EBWebView\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\178596e4-f7eb-4661-aaf6-c4fc576f7197\EBWebView\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\178596e4-f7eb-4661-aaf6-c4fc576f7197\EBWebView\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\178596e4-f7eb-4661-aaf6-c4fc576f7197\EBWebView\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\178596e4-f7eb-4661-aaf6-c4fc576f7197\EBWebView\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\2d764b0a-ceec-4b23-8fd8-3b8c7eb5c6f8\EBWebView\edge_shutdown_ms.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\2d764b0a-ceec-4b23-8fd8-3b8c7eb5c6f8\EBWebView\Subresource Filter\Unindexed Rules\9.34.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\2d764b0a-ceec-4b23-8fd8-3b8c7eb5c6f8\EBWebView\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\2d764b0a-ceec-4b23-8fd8-3b8c7eb5c6f8\EBWebView\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\2d764b0a-ceec-4b23-8fd8-3b8c7eb5c6f8\EBWebView\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\2d764b0a-ceec-4b23-8fd8-3b8c7eb5c6f8\EBWebView\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\2d764b0a-ceec-4b23-8fd8-3b8c7eb5c6f8\EBWebView\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\2d764b0a-ceec-4b23-8fd8-3b8c7eb5c6f8\EBWebView\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\535abaa5-74a0-4063-ba34-44fb9fa7fc8a\EBWebView\edge_shutdown_ms.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\535abaa5-74a0-4063-ba34-44fb9fa7fc8a\EBWebView\Subresource Filter\Unindexed Rules\9.34.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\535abaa5-74a0-4063-ba34-44fb9fa7fc8a\EBWebView\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\535abaa5-74a0-4063-ba34-44fb9fa7fc8a\EBWebView\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\535abaa5-74a0-4063-ba34-44fb9fa7fc8a\EBWebView\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\535abaa5-74a0-4063-ba34-44fb9fa7fc8a\EBWebView\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\535abaa5-74a0-4063-ba34-44fb9fa7fc8a\EBWebView\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\535abaa5-74a0-4063-ba34-44fb9fa7fc8a\EBWebView\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ad0888fe-03e4-4628-b1b5-29015247586d\EBWebView\Subresource Filter\Unindexed Rules\9.33.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ad0888fe-03e4-4628-b1b5-29015247586d\EBWebView\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ad0888fe-03e4-4628-b1b5-29015247586d\EBWebView\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ad0888fe-03e4-4628-b1b5-29015247586d\EBWebView\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ad0888fe-03e4-4628-b1b5-29015247586d\EBWebView\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ad0888fe-03e4-4628-b1b5-29015247586d\EBWebView\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ad0888fe-03e4-4628-b1b5-29015247586d\EBWebView\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ed1a3058-8e0c-4ede-ab04-00dc83062ced\EBWebView\edge_shutdown_ms.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ed1a3058-8e0c-4ede-ab04-00dc83062ced\EBWebView\Subresource Filter\Unindexed Rules\9.33.0\LICENSE.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ed1a3058-8e0c-4ede-ab04-00dc83062ced\EBWebView\ZxcvbnData\2.0.0.0\english_wikipedia.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ed1a3058-8e0c-4ede-ab04-00dc83062ced\EBWebView\ZxcvbnData\2.0.0.0\female_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ed1a3058-8e0c-4ede-ab04-00dc83062ced\EBWebView\ZxcvbnData\2.0.0.0\male_names.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ed1a3058-8e0c-4ede-ab04-00dc83062ced\EBWebView\ZxcvbnData\2.0.0.0\passwords.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ed1a3058-8e0c-4ede-ab04-00dc83062ced\EBWebView\ZxcvbnData\2.0.0.0\surnames.txt
+C:\Users\Admin\AppData\Local\Temp\VSWebView2Cache\ed1a3058-8e0c-4ede-ab04-00dc83062ced\EBWebView\ZxcvbnData\2.0.0.0\us_tv_and_film.txt
+C:\Users\Admin\AppData\Roaming\LINQPad\RecentFindAll.txt
+C:\Users\Admin\AppData\Roaming\Microsoft\Teams\installTime.txt
+C:\Users\Admin\AppData\Roaming\Microsoft\Teams\logs.txt
+C:\Users\Admin\AppData\Roaming\Microsoft\Teams\old_logs_20220219082100.txt
+C:\Users\Admin\AppData\Roaming\Microsoft\Teams\old_logs_20220222090630.txt
+C:\Users\Admin\AppData\Roaming\Microsoft\Teams\old_logs_20220223215906.txt
+C:\Users\Admin\AppData\Roaming\Microsoft\Teams\old_logs_20220304090158.txt
+C:\Users\Admin\AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\index.txt
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\CompanyOrders\obj\Debug\CompanyOrders.csproj.FileListAbsolute.txt
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\CompanyOrders\obj\Debug\MembershipApp.csproj.FileListAbsolute.txt
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\CompanyOrders.UnitTesting\obj\Debug\CompanyOrders.UnitTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\CompanyOrders.UnitTesting\obj\Debug\MembershipApp.UnitTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\MembershipApp\obj\Debug\MembershipApp.csproj.FileListAbsolute.txt
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\obj\Debug\HackathonProjectkcskishore.csproj.FileListAbsolute.txt
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\TrainingAppProblem\obj\Debug\TrainingAppProblem.csproj.FileListAbsolute.txt
+C:\Users\Admin\Desktop\OO Labs\HackathonProjectkcskishore\TrainingAppProblem.UnitTesting\obj\Debug\TrainingAppProblem.UnitTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\Documents\eurofins files\docs new joinee help\file1.txt
+C:\Users\Admin\Downloads\Linq To Objects Labs.txt
+C:\Users\Admin\Downloads\ProblemStatement-Modified.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\designapproach\EFDesignFromDB\obj\Debug\EFDesignFromDB.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\ExportMonasteriesAsXml\obj\Debug\ExportMonasteriesAsXml.csproj.FileListAbsolute.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_hyperv-containerlicense_31bf3856ad364e35_10.0.19041.867_none_3390e1c6cd2a2b47\n\license.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\ExportRiversdataAs_JSON\riverdata.json.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\ExportRiversdataAs_JSON\obj\Debug\ExportRiversdataAs_JSON.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\ImportRiversFromXML\obj\Debug\ImportRiversFromXML.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\obj\Debug\EFHandsOnLabs.csproj.FileListAbsolute.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_hyperv-vmchipset_31bf3856ad364e35_10.0.19041.1466_none_49ee05df41e9e7f0\f\vmchipset third-party notices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_hyperv-vmchipset_31bf3856ad364e35_10.0.19041.1466_none_49ee05df41e9e7f0\r\vmchipset third-party notices.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\packages\EntityFramework.6.4.4\tools\about_EntityFramework6.help.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\RiverDataToJson\riverdata.json.txt
+C:\Users\Admin\source\repos\EFHandsOnLabs\RiverDataToJson\obj\Debug\RiverDataToJson.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\Eurofins2022\AIDataLoader.UnitTesting\obj\Debug\AIDataLoader.UnitTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\Eurofins2022\AIEntities\obj\Debug\AIEntities.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\Eurofins2022\AIRecomender\obj\Debug\AIRecomender.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\Eurofins2022\AIRecomender.UnitTesting\obj\Debug\AIRecomender.UnitTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\Eurofins2022\Eurofins2022\obj\Debug\Eurofins2022.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\Eurofins2022\packages\EntityFramework.6.2.0\tools\about_EntityFramework.help.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\.vs\EurofinsJan2022Demos\v17\HierarchyCache.v1.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\AIDataLoader\obj\Debug\AIDataLoader.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\BankAppLibrary\obj\Debug\BankAppLibrary.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\BankAppLibrary.UnitTestProject\obj\Debug\BankAppLibrary.UnitTestProject.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\ContactsManagementWindowsFormsApp\obj\Debug\ContactsManagementWindowsFormsApp.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\DatabaseProgrammingWithADODemos\obj\Debug\DatabaseProgrammingWithADODemos.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\IDELab\obj\Debug\IDELab.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\OODemo1\obj\Debug\OODemo1.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\OODemo2\obj\Debug\OODemo2.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\OODemo3\obj\Debug\OODemo3.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\Castle.Core.4.4.0\ASL - Apache Software Foundation License.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\Castle.Core.4.4.0\readme.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\EntityFramework.6.2.0\tools\about_EntityFramework.help.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\LICENSE.TXT
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\THIRD-PARTY-NOTICES.TXT
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\useSharedDesignerContext.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\version.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\System.Threading.Tasks.Extensions.4.5.4\LICENSE.TXT
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\System.Threading.Tasks.Extensions.4.5.4\THIRD-PARTY-NOTICES.TXT
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\System.Threading.Tasks.Extensions.4.5.4\useSharedDesignerContext.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\packages\System.Threading.Tasks.Extensions.4.5.4\version.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\POSWithDesignPatternsDemo\obj\Debug\POSWithDesignPatternsDemo.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\SimpleCalculatorClassLibrary\obj\Debug\SimpleCalculatorClassLibrary.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsJan2022Demos\SimpleCalculatorClassLibrary.UnitTestProject\obj\Debug\SimpleCalculatorClassLibrary.UnitTestProject.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\links.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\AbstractAndArray\obj\Debug\AbstractAndArray.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\anil assignments and classes\ClassNObject\obj\Debug\ClassNObject.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\AssignmentByAnil\obj\Debug\AssignmentByAnil.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\largedata processing case study\LargeDataProcessingCaseStudy\obj\Debug\LargeDataProcessingCaseStudy.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\PLTLabs1\obj\Debug\PLTLabs1.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\ProductApp1\obj\Debug\ProductApp1.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab1\obj\Debug\Lab1.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab2\obj\Debug\Lab2.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab3\obj\Debug\Lab3.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab4\obj\Debug\Lab4.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab5\obj\Debug\Lab5.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab6\obj\Debug\Lab6.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab7\obj\Debug\Lab7.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab8\obj\Debug\Lab8.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\Lab9\obj\Debug\Lab9.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\LabT10\obj\Debug\LabT10.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\TIO Labs\LabT11\obj\Debug\LabT11.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\EurofinsTraining2022kcs\venkat@pratian.com\DatabaseProgrammingWithADODemos\obj\Debug\DatabaseProgrammingWithADODemos.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\FileSearch\History.txt
+C:\Users\Admin\source\repos\FileSearch\FileSearch.Class\obj\Debug\ClassLibraryForTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\FileSearch\FileSearch.Class\obj\Debug\FileSearch.Class.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\FileSearch\FileSearch.Class.UnitTesting\obj\Debug\FileSearch.Class.UnitTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\FileSearch\FileSearch_Hackathon\FileSearch_Hackathon\HistoryTextStr.txt
+C:\Users\Admin\source\repos\FileSearch\FileSearch_Hackathon\FileSearch_Hackathon\SaveSearchHistory.txt
+C:\Users\Admin\source\repos\FileSearch\FileSearch_Hackathon\FileSearch_Hackathon\obj\Debug\FileSearch_Hackathon.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\FileSearch\obj\Debug\FileSearch.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\githubeurofins\venketsir\LargeDataProcessingCaseStudy\obj\Debug\LargeDataProcessingCaseStudy.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\githubeurofins\venketsir\SPOwithDesignPatterns\obj\Debug\SPOwithDesignPatterns.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LanguageEnhancementsHandsOnLab\Linq To Objects Labs.txt
+C:\Users\Admin\source\repos\LanguageEnhancementsHandsOnLab\LinqToXML_Labs\obj\Debug\LinqToXML_Labs.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LanguageEnhancementsHandsOnLab\NewLanguageFeatures\obj\Debug\LinqToObjects_Labs.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LanguageEnhancementsHandsOnLab\NewLanguageFeatures\obj\Debug\NewLanguageFeatures.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\AIDataLoader\obj\Debug\AIDataLoader.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\AIDataLoader.UnitTesting\obj\Debug\AIDataLoader.UnitTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\AIEntities\obj\Debug\AIEntities.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\AIRatingsAggrigator\obj\Debug\AIRatingsAggrigator.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\AIRecommandarCoreEngine\obj\Debug\AIRecommandarCoreEngine.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\AIRecommendationClientApp\obj\Debug\AIRecommendationClientApp.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\AIRecommendationEngine\obj\Debug\AIRecommendationEngine.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\BankAppLibrary\obj\Debug\BankAppLibrary.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\BankAppLibrary.UnitTestProject\obj\Debug\BankAppLibrary.UnitTestProject.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\PearsonRecommenderUnitTest\obj\Debug\AIRecommandarCoreEngine.UnitTesting.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\PearsonRecommenderUnitTest\obj\Debug\PearsonRecommenderUnitTest.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\SimpleCalculatorClassLibrary\obj\Debug\SimpleCalculatorClassLibrary.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\LocalProject\SimpleCalculatorClassLibrary.UnitTestProject\obj\Debug\SimpleCalculatorClassLibrary.UnitTestProject.csproj.FileListAbsolute.txt
+C:\Users\Admin\source\repos\PersonalKCSProjects\obj\Debug\PersonalKCSProjects.csproj.FileListAbsolute.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\tmp\Teams\resources\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\current\resources\tmp\Teams\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\tmp\Teams\resources\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\tmp\Teams\resources\node_modules\@msteams\ado-pull-request-utils\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\tmp\Teams\resources\node_modules\azure-devops-node-api\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\Teams\previous\resources\tmp\Teams\resources\node_modules\typed-rest-client\ThirdPartyNotice.txt
+C:\Users\All Users\Admin\Microsoft\TeamsPresenceAddin\presence-addin-install-logs.txt
+C:\Users\All Users\LINQPad\LINQPad5Path.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\ThirdPartyNotices.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\mkdirp\bin\usage.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\vscode-chrome-debug-core\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\vscode-chrome-debug-core\ThirdPartyNotices.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\vscode-debugadapter\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\vscode-debugadapter\thirdpartynotices.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\vscode-debugadapter\node_modules\vscode-debugprotocol\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\vscode-debugprotocol\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\vscode-nls\License.txt
+C:\Users\All Users\Microsoft\VisualStudio\ChromeAdapter\c266e36f\node_modules\vscode-nls\ThirdPartyNotices.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\ThirdPartyNotices.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\mkdirp\bin\usage.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-chrome-debug-core\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-chrome-debug-core\ThirdPartyNotices.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-chrome-debug-core\node_modules\vscode-nls\License.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-chrome-debug-core\node_modules\vscode-nls\ThirdPartyNotices.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-debugadapter\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-debugadapter\thirdpartynotices.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-debugprotocol\LICENSE.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-nls\License.txt
+C:\Users\All Users\Microsoft\VisualStudio\EdgeAdapter\c266e36f\node_modules\vscode-nls\ThirdPartyNotices.txt
+C:\Users\All Users\Microsoft\Windows Defender\Platform\4.18.2111.5-0\ThirdPartyNotices.txt
+C:\Users\All Users\Microsoft\Windows Defender\Platform\4.18.2201.10-0\ThirdPartyNotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-i..dsetup-media-compat_31bf3856ad364e35_10.0.19041.1387_none_98f4f2507903bd5a\f\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-i..dsetup-media-compat_31bf3856ad364e35_10.0.19041.1387_none_98f4f2507903bd5a\r\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1415_none_c74468a2c601938d\f\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1415_none_c74468a2c601938d\f\hwexclude.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1415_none_c74468a2c601938d\r\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1415_none_c74468a2c601938d\r\hwexclude.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.19041.1415_none_0b068a51de47748d\f\idwbinfo.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.19041.1415_none_0b068a51de47748d\r\idwbinfo.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\f\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\r\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\f\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\r\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\asdclassifiermodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\asdclassifiermodelnodepth.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\cnnmodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\asdclassifiermodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\asdclassifiermodelnodepth.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\cnnmodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\f\thirdpartynotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\r\thirdpartynotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1266_none_1abb9653828c3f41\n\thirdpartynoticesbyshs.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\f\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\r\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\f\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1466.1.6\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\r\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_hyperv-containerlicense_31bf3856ad364e35_10.0.19041.867_none_3390e1c6cd2a2b47\n\license.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_hyperv-vmchipset_31bf3856ad364e35_10.0.19041.1503_none_49dd788f41f71ef4\f\vmchipset third-party notices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_hyperv-vmchipset_31bf3856ad364e35_10.0.19041.1503_none_49dd788f41f71ef4\r\vmchipset third-party notices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-i..dsetup-media-compat_31bf3856ad364e35_10.0.19041.1503_none_98d7ab48791ac400\f\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-i..dsetup-media-compat_31bf3856ad364e35_10.0.19041.1503_none_98d7ab48791ac400\r\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1503_none_c738c5fcc60a62e5\f\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1503_none_c738c5fcc60a62e5\f\hwexclude.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1503_none_c738c5fcc60a62e5\r\hwcompat.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-i..dsetup-rejuvenation_31bf3856ad364e35_10.0.19041.1503_none_c738c5fcc60a62e5\r\hwexclude.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.19041.1415_none_0b068a51de47748d\f\idwbinfo.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.19041.1415_none_0b068a51de47748d\r\idwbinfo.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\f\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\r\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\f\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\r\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\asdclassifiermodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\asdclassifiermodelnodepth.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\f\cnnmodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\asdclassifiermodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\asdclassifiermodelnodepth.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_ppi-ppiskype-c-a_31bf3856ad364e35_10.0.19041.662_none_4fe74cf432204574\r\cnnmodel.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\f\thirdpartynotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\r\thirdpartynotices.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1503_none_1a95692b82a9ae27\n\thirdpartynoticesbyshs.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\f\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\r\livedomainlist.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\f\windowscodecsraw.txt
+C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1526.1.5\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\r\windowscodecsraw.txt
+C:\Windows\System32\WindowsCodecsRaw.txt
+C:\Windows\System32\drivers\gmreadme.txt
+C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\Documents\development_tools.txt
+C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\Documents\License.txt
+C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\Documents\Readme.txt
+C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\Documents\redist.txt
+C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_76523213b78d9046\Documents\Third Party Licenses.txt
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\VulkanRT-EULA.txt
+C:\Windows\System32\DriverStore\FileRepository\sgx_base.inf_amd64_b26a00b93e5a1998\License.txt
+C:\Windows\System32\MailContactsCalendarSync\LiveDomainList.txt
+C:\Windows\System32\WindowsPowerShell\v1.0\en-US\default.help.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\1.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\10.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\11.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\12.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\13.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\14.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\15.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\16.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\17.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\18.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\19.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\2.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\20.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\21.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\22.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\23.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\24.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\25.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\26.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\27.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\28.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\29.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\3.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\4.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\5.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\6.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\7.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\8.txt
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\cache\Desktop\9.txt
+C:\Windows\SysWOW64\WindowsCodecsRaw.txt
+C:\Windows\SysWOW64\drivers\gmreadme.txt
+C:\Windows\SysWOW64\MailContactsCalendarSync\LiveDomainList.txt
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\en-US\default.help.txt
+C:\Windows\WinSxS\amd64_hyperv-containerlicense_31bf3856ad364e35_10.0.19041.867_none_3390e1c6cd2a2b47\License.txt
+C:\Windows\WinSxS\amd64_hyperv-vmchipset_31bf3856ad364e35_10.0.19041.1466_none_49ee05df41e9e7f0\VmChipset Third-Party Notices.txt
+C:\Windows\WinSxS\amd64_hyperv-vmchipset_31bf3856ad364e35_10.0.19041.1503_none_49dd788f41f71ef4\VmChipset Third-Party Notices.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_a4807aed01fa99a1\LiveDomainList.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-p..ll-preloc.resources_31bf3856ad364e35_10.0.19041.1_en-us_77a35fdb40cb2361\default.help.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\1.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\10.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\11.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\12.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\13.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\14.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\15.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\16.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\17.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\18.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\19.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\2.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\20.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\21.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\22.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\23.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\24.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\25.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\26.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\27.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\28.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\29.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\3.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\4.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\5.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\6.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\7.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\8.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1_none_43fe9f4e368e081f\9.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..-coreinkrecognition_31bf3856ad364e35_10.0.19041.746_none_cb918c7159c1f7d9\ThirdPartyNotices.MSHWLatin.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..extservice-tigrinya_31bf3856ad364e35_10.0.19041.1_none_2863d34beb4a07ef\TableTextServiceTigrinya.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..ional-chinese-array_31bf3856ad364e35_10.0.19041.1_none_1acadbc4014be947\TableTextServiceArray.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..riventextservice-yi_31bf3856ad364e35_10.0.19041.1_none_f76e81415e04d416\TableTextServiceYi.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-t..tional-chinese-dayi_31bf3856ad364e35_10.0.19041.1_none_166d1ef984f89a37\TableTextServiceDaYi.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-u..userpredictionmodel_31bf3856ad364e35_10.0.19041.1_none_42c9bed4b6bd2e16\SBCModel.txt
+C:\Windows\WinSxS\amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_09c62bea6ce5a482\WindowsCodecsRaw.txt
+C:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_8a237828132e61da\about_BeforeEach_AfterEach.help.txt
+C:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_8a237828132e61da\about_Mocking.help.txt
+C:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_8a237828132e61da\about_Pester.help.txt
+C:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_8a237828132e61da\about_should.help.txt
+C:\Windows\WinSxS\amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_8a237828132e61da\about_TestDrive.help.txt
+C:\Windows\WinSxS\amd64_multimedia-generalmididata_31bf3856ad364e35_10.0.19041.1_none_3eae594ef5c099df\gmreadme.txt
+C:\Windows\WinSxS\amd64_netfx4-attributionfile_b03f5f7f11d50a3a_4.0.15805.0_none_763fb8d053feb31c\ThirdPartyNotices.txt
+C:\Windows\WinSxS\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7\ThirdPartyNotices.txt
+C:\Windows\WinSxS\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1266_none_1abb9653828c3f41\ThirdPartyNoticesBySHS.txt
+C:\Windows\WinSxS\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1266_none_1abb9653828c3f41\n\ThirdPartyNoticesBySHS.txt
+C:\Windows\WinSxS\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1503_none_1a95692b82a9ae27\ThirdPartyNoticesBySHS.txt
+C:\Windows\WinSxS\amd64_windows-shield-provider_31bf3856ad364e35_10.0.19041.1503_none_1a95692b82a9ae27\n\ThirdPartyNoticesBySHS.txt
+C:\Windows\WinSxS\Backup\amd64_windows-defender-service_31bf3856ad364e35_10.0.19041.746_none_a39f6d9ab59bd8b7_thirdpartynotices.txt_086f3c50
+C:\Windows\WinSxS\wow64_microsoft-windows-mccs-syncutil_31bf3856ad364e35_10.0.19041.746_none_aed5253f365b5b9c\LiveDomainList.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-p..ll-preloc.resources_31bf3856ad364e35_10.0.19041.1_en-us_81f80a2d752be55c\default.help.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..-coreinkrecognition_31bf3856ad364e35_10.0.19041.746_none_d5e636c38e22b9d4\ThirdPartyNotices.MSHWLatin.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..extservice-tigrinya_31bf3856ad364e35_10.0.19041.1_none_32b87d9e1faac9ea\TableTextServiceTigrinya.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..ional-chinese-array_31bf3856ad364e35_10.0.19041.1_none_251f861635acab42\TableTextServiceArray.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..riventextservice-yi_31bf3856ad364e35_10.0.19041.1_none_01c32b9392659611\TableTextServiceYi.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-t..tional-chinese-dayi_31bf3856ad364e35_10.0.19041.1_none_20c1c94bb9595c32\TableTextServiceDaYi.txt
+C:\Windows\WinSxS\wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.1165_none_141ad63ca146667d\WindowsCodecsRaw.txt
+C:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_9478227a478f23d5\about_BeforeEach_AfterEach.help.txt
+C:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_9478227a478f23d5\about_Mocking.help.txt
+C:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_9478227a478f23d5\about_Pester.help.txt
+C:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_9478227a478f23d5\about_should.help.txt
+C:\Windows\WinSxS\wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.19041.1_none_9478227a478f23d5\about_TestDrive.help.txt
+C:\Windows\WinSxS\wow64_multimedia-generalmididata_31bf3856ad364e35_10.0.19041.1_none_490303a12a215bda\gmreadme.txt
+C:\Windows\WinSxS\x86_netfx4-attributionfile_b03f5f7f11d50a3a_4.0.15805.0_none_bdecefa7687adc22\ThirdPartyNotices.txt

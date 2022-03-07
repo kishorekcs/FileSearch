@@ -13,8 +13,7 @@ namespace FileSearcher.Class.UnitTesting
         public void FileFound()
         {
             var searchForm = new SearchInputForm();
-            Console.WriteLine("Enter File Name: ");
-            Assert.IsTrue(searchForm.Search("FileSearch.sln"));
+            Assert.IsTrue(searchForm.Search());
         }
     }
     [TestClass]
@@ -24,8 +23,7 @@ namespace FileSearcher.Class.UnitTesting
         public void FileFoundInHistory()
         {
             var searchForm = new SearchInputForm();
-            Console.WriteLine("Enter File Name: ");
-            Assert.IsTrue(searchForm.Search("FileSearch.sln"));
+            Assert.IsTrue(searchForm.Search());
         }
     }
     [TestClass]
@@ -35,8 +33,7 @@ namespace FileSearcher.Class.UnitTesting
         public void FileNotFound()
         {
             var searchForm = new SearchInputForm();
-            Console.WriteLine("Enter File Name: ");
-            Assert.IsTrue(searchForm.Search("dwudohoqudhoqxsquiszjska"));
+            Assert.IsTrue(searchForm.Search());
         }
     }
 }

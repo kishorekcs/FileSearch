@@ -49,6 +49,7 @@
     <Compile Include="exceptionsss\FileNotFoundException.cs" />
     <Compile Include="exceptionsss\InvalidFinderChoiceException.cs" />
     <Compile Include="exceptionsss\InvalidRootDescriptionException.cs" />
+    <Compile Include="exceptionsss\FileNotFoundInHistoryException.cs" />
     <Compile Include="FileSearcher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SearchHistoryMgr.cs" />
@@ -58,7 +59,10 @@
     <Compile Include="SearchResult.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="classDiagram1.cd" />
+    <ProjectReference Include="..\FileSearch.ConfigurationModule\FileSearch.ConfigurationModule.csproj">
+      <Project>{4e2648c8-2579-44cd-92f3-737371742938}</Project>
+      <Name>FileSearch.ConfigurationModule</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

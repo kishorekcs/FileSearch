@@ -15,24 +15,21 @@ namespace FileSearch.Class
     /// </summary>
     public class SearchInputForm
     {
-
         SearchHistoryMgr historyManager = null;
         SearchMgr SearchManager=null;
         SearchReport searchReport=null;
-
         public SearchInputForm()
         {
             historyManager = new SearchHistoryMgr();
         }
-
-        public bool Search(string fileName)
+        public bool Search()
         {
             var watch = new System.Diagnostics.Stopwatch();
             watch.Start();
             {
+                string fileName = AcceptFileName();
                 List<string> drives = AcceptDrivesToSearch();
                 List<string> filePaths = null;
-
                 try
                 {
                     //check history
@@ -47,34 +44,27 @@ namespace FileSearch.Class
                         SearchManager.Search(fileName, drives);
                         filePaths = SearchResult.GetInstance().FilePaths;
 
-                        if (filePaths != null)
-                        {
-                            //Result
-                            DisplayFilePath(filePaths);
-                            historyManager.StoreSearchResults(filePaths);
-                        }
-                        else
-                        {
-                            Console.WriteLine("FILE NOT FOUND");
-                            throw new FileNotFoundException();
-                        }
+                        //Result
+                        DisplayFilePath(filePaths);
+                        historyManager.StoreSearchResults(filePaths);
                     }
-                    catch { }
+                    catch(FileNotFoundException) 
+                    {
+                        Console.WriteLine("FILE NOT FOUND");
+                    }
                 }
             }
-
             watch.Stop();
             Console.WriteLine("Search time "+watch.ElapsedMilliseconds + " ms");
             return true;
         }
 
-        ///Unnecessary got filename from main
-        //private string AcceptFileName()
-        //{
-        //    Console.WriteLine("Enter File Name");
-        //    //filter name as per file naming convesions
-        //    return Console.ReadLine();
-        //}
+        private string AcceptFileName()
+        {
+            Console.WriteLine("Enter File Name");
+            //filter name as per file naming convesions
+            return Console.ReadLine();
+        }
         private List<string> AcceptDrivesToSearch()
         {
             string TypeOfDrive = ConfigurationManager.ConnectionStrings["TypeOfDrive"].ConnectionString;
